@@ -1,0 +1,11 @@
+name: trading_system
+
+dependencies:
+- python=3.11
+- numpy
+- pandas
+- pymongo
+- dash
+- pytest
+- plotly
+- jupyter
