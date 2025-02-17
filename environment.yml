@@ -9,3 +9,5 @@ dependencies:
 - pytest
 - plotly
 - jupyter
+- lxml
+- tqdm
